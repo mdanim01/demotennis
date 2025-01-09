@@ -8,3 +8,6 @@ def get_user_data(user):
 
 def change_mobile_number(user):
     pass
+
+def change_user_name(user):
+    pass
